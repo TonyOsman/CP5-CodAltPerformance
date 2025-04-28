@@ -7,6 +7,8 @@ public class DivulgaOferta {
      * Tony Khaled Osman - RM553050
      * Bruno Salge Figueira - RM552859
      * Lucas Fontes Peruzin - RM552877
+     * Pedro Hendrique lima - RM553664
+     * Luiz Fabiano Nascimento Vale da Silva - RM553529
      */
 
     public static void main(String[] args) {
